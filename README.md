@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋, welcome to my github page!
+![](https://komarev.com/ghpvc/?username=ademola-lou)
 <!--
 **ademola-lou/ademola-lou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
